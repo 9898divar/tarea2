@@ -1,0 +1,221 @@
+.contenedor1
+{
+    background-color: rgb(46, 68, 68);
+    padding: 20px;
+    display: flex;
+    
+  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.caja1
+{
+    background-color: rgb(90, 88, 96);
+    padding: 10px;
+    display: flex;
+    width: 150px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5px;
+    flex-grow: 1;
+    align-content: space-between;
+    justify-content: center;
+    order: 1;
+    
+}
+.caja2{
+    background-color: rgb(76, 75, 84);
+    padding: auto;
+    display: flex;
+    width: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5px;
+    flex-grow: 5;
+    align-content: space-around;
+    justify-content: center;
+    order: 2;
+}
+.caja3
+{
+    background-color: rgb(74, 79, 92);
+    margin: 50px;
+    width: 150px;
+    display: flex;
+    margin: 5px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+    flex-grow: 3;
+    order: 3;
+}
+.caja1_1
+{
+    background-color: rgb(145, 255, 0);
+    width: 70px;
+    height: 120px;
+    margin: 10px;
+
+  
+}
+.caja1_2
+{
+    background-color: rgb(71, 233, 98);
+    width: 70px;
+    height: 120px;
+    margin: 10px;
+ 
+ 
+}
+.caja1_3
+{
+    background-color: rgb(43, 211, 85);
+    width: 70px;
+    height: 120px;
+    margin: 10px;
+  
+   
+}
+.caja1_4
+{
+    background-color: #74e644;
+    width: 70px;
+    height: 120px;
+    margin: 10px;
+    
+}
+/*caja2*/
+.caja1_5
+{
+    background-color: rgb(204, 0, 255);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 1;
+    
+}
+.caja1_6
+{
+    background-color: rgb(202, 52, 205);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 3;
+    
+}
+.caja1_7
+{
+    background-color: rgb(217, 4, 255);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 4;
+    
+}
+.caja1_8
+{
+    background-color: rgb(204, 66, 250);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 3;
+    
+}
+.caja1_9
+{
+    background-color: rgb(225, 92, 255);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 6;
+    
+}
+.caja1_10
+{
+    background-color: rgb(162, 32, 202);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: initial;
+    
+}
+.caja1_11
+{
+    background-color: rgb(166, 81, 224);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: initial;
+    
+}
+.caja1_12
+{
+    background-color: rgb(183, 46, 204);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: inherit;
+    
+}
+.caja1_13
+{
+    background-color: rgb(198, 67, 255);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    flex-grow: 5;
+    
+}
+/*caja3*/
+.caja2_1
+{
+    background-color: rgb(212, 18, 18);
+    width: 170px;
+    height: 100px;
+    margin: 20px;
+   
+   
+}
+.caja2_2
+{
+    background-color: rgb(212, 18, 18);
+    width: 90px;
+    height: 160px;
+    margin: 20px;
+    
+}
+.caja2_3
+{
+    background-color: rgb(212, 18, 18);
+    width: 90px;
+    height: 160px;
+    margin: 20px;
+    
+}
+.caja2_4
+{
+    background-color: rgb(212, 18, 18);
+    width: 170px;
+    height: 100px;
+    margin: 20px;
+    
+}
+.caja2_5
+{
+    background-color: rgb(212, 18, 18);
+    width: 90px;
+    height: 160px;
+    margin: 20px;
+    
+}
+.caja2_6
+{
+    background-color: rgb(212, 18, 18);
+    width: 90px;
+    height: 160px;
+    margin: 20px;
+    
+}
